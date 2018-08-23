@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10054de1-ebc6-4ce3-ab21-150acab6d9e4" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/kr36$k36.coverage" NAME="k36 Coverage Results" MODIFIED="1533530716141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kr36/spiders" />
+    <SUITE FILE_PATH="coverage/kr36$test.coverage" NAME="test Coverage Results" MODIFIED="1533565410624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kr36" />
+    <SUITE FILE_PATH="coverage/kr36$begin.coverage" NAME="begin Coverage Results" MODIFIED="1533651984444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kr36" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="k36.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kr36/spiders/k36.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1932">
+              <caret line="86" column="16" selection-start-line="86" selection-start-column="16" selection-end-line="86" selection-end-column="16" />
+              <folding>
+                <element signature="e#24#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="middlewares.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kr36/middlewares.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="452">
+              <caret line="108" selection-start-line="108" selection-end-line="108" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="说明.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/说明.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kr36/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kr36/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1380">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Cookie</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/kr36/begin.py" />
+        <option value="$PROJECT_DIR$/kr36/spiders/proxy.py" />
+        <option value="$PROJECT_DIR$/kr36/middlewares.py" />
+        <option value="$PROJECT_DIR$/kr36/proxyMidde.py" />
+        <option value="$PROJECT_DIR$/kr36/items.py" />
+        <option value="$PROJECT_DIR$/kr36/test.py" />
+        <option value="$PROJECT_DIR$/kr36/settings.py" />
+        <option value="$PROJECT_DIR$/kr36/spiders/k36.py" />
+        <option value="$PROJECT_DIR$/说明.txt" />
+        <option value="$PROJECT_DIR$/kr36/pipelines.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="105" />
+    <option name="y" value="460" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kr36" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kr36" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kr36" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kr36" type="462c0819:PsiDirectoryNode" />
+              <item name="kr36" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kr36" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kr36" type="462c0819:PsiDirectoryNode" />
+              <item name="kr36" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="rong.36kr.com" />
+                <option name="name" value="acw_tc" />
+                <option name="path" value="/" />
+                <option name="value" value="AQAAAIqhF3XAvwUAnGFxe89WFOW4QLQo" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://rong.36kr.com" />
+          <option name="urlPath" value="/n/api/company/20291" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="User-Agent" />
+                <option name="value" value="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.26 Safari/537.36 Core/1.63.5514.400 QQBrowser/10.1.1660.400" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cookie" />
+                <option name="value" value="MEIQIA_EXTRA_TRACK_ID=18PJsogSUc3PXQLvRDNJhonafDz; acw_tc=AQAAANWaPUlVeAsAe215ahEQqD2tMQnN; MEIQIA_VISIT_ID=18RxaLYA4TyuWBzc3bwEvTJFwtX; kr_stat_uuid=E5MnA25560171; Hm_lvt_e8ec47088ed7458ec32cde3617b23ee3=1533529361,1533563876,1533610306; Hm_lpvt_e8ec47088ed7458ec32cde3617b23ee3=1533610306; download_animation=1; _kr_p_se=72676b24-4321-4e33-a0e8-5e03520c5b0e; krid_user_id=665797012; krid_user_version=4; kr_plus_id=665797012; kr_plus_token=kFQEJ5SBlTManjYmtQP_jnO1OvFS674199_43___; kr_plus_utype=0; Z-XSRF-TOKEN=eyJpdiI6InU2QVBcLzFLZFZVbjhMUm9pWkV4V29RPT0iLCJ2YWx1ZSI6IldKcDc4cUg2ZWpKazlQRFRsYW5IbDBRdkZHRVlVMklSSkRwTjNmMnJ6bzdSbjZRR0wrQWF6bk5LXC9TSkViQWdIQjFDTkZmZmJRdW16ZWpvOVwvR0tTRHc9PSIsIm1hYyI6ImQ2YzhiZmI1N2UxMmVlODgyYzY4NDhjYTNjM2Q3MDExMTE4ZDBkY2Q2NWI4MWM2ODliNGRlODU5MmNiYWVkN2UifQ%3D%3D; krchoasss=eyJpdiI6IkMrbkZqajJiMDVDY1Nveld3b09ucEE9PSIsInZhbHVlIjoiZG95VFZBTGxRbmRLRFptZ21lYWdCaDdtcmMwMTFiUzhSZ0dJSktuMmlWQ1A4amo5YTVLXC9IS0RhYkIwWlNyMTdqdHpnUEhGSHNVQjcxQ1ZTRGFEVmpnPT0iLCJtYWMiOiI3YjQ3ZWY5NjFlYzFmMGM2MDU5M2Q0Y2IyN2ZmNjk0NzQzOWE1ZjdhOGJkMDRhNDJjYWE3OWMzZGQyMjM2ZmQ1In0%3D" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="X-Tingyun-Id" />
+                <option name="value" value="Dio1ZtdC5G4;r=11624127" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="rong.36kr.com" />
+                <option name="name" value="acw_tc" />
+                <option name="path" value="/" />
+                <option name="value" value="AQAAAIqhF3XAvwUAnGFxe89WFOW4QLQo" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://rong.36kr.com" />
+          <option name="urlPath" value="/n/api/company/20291" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="User-Agent" />
+                <option name="value" value="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.26 Safari/537.36 Core/1.63.5514.400 QQBrowser/10.1.1660.400" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cookie" />
+                <option name="value" value="MEIQIA_EXTRA_TRACK_ID=18PJsogSUc3PXQLvRDNJhonafDz; acw_tc=AQAAANWaPUlVeAsAe215ahEQqD2tMQnN; MEIQIA_VISIT_ID=18RxaLYA4TyuWBzc3bwEvTJFwtX; kr_stat_uuid=E5MnA25560171; Hm_lvt_e8ec47088ed7458ec32cde3617b23ee3=1533529361,1533563876,1533610306; Hm_lpvt_e8ec47088ed7458ec32cde3617b23ee3=1533610306; download_animation=1; _kr_p_se=72676b24-4321-4e33-a0e8-5e03520c5b0e; krid_user_id=665797012; krid_user_version=4; kr_plus_id=665797012; kr_plus_token=kFQEJ5SBlTManjYmtQP_jnO1OvFS674199_43___; kr_plus_utype=0; Z-XSRF-TOKEN=eyJpdiI6InU2QVBcLzFLZFZVbjhMUm9pWkV4V29RPT0iLCJ2YWx1ZSI6IldKcDc4cUg2ZWpKazlQRFRsYW5IbDBRdkZHRVlVMklSSkRwTjNmMnJ6bzdSbjZRR0wrQWF6bk5LXC9TSkViQWdIQjFDTkZmZmJRdW16ZWpvOVwvR0tTRHc9PSIsIm1hYyI6ImQ2YzhiZmI1N2UxMmVlODgyYzY4NDhjYTNjM2Q3MDExMTE4ZDBkY2Q2NWI4MWM2ODliNGRlODU5MmNiYWVkN2UifQ%3D%3D; krchoasss=eyJpdiI6IkMrbkZqajJiMDVDY1Nveld3b09ucEE9PSIsInZhbHVlIjoiZG95VFZBTGxRbmRLRFptZ21lYWdCaDdtcmMwMTFiUzhSZ0dJSktuMmlWQ1A4amo5YTVLXC9IS0RhYkIwWlNyMTdqdHpnUEhGSHNVQjcxQ1ZTRGFEVmpnPT0iLCJtYWMiOiI3YjQ3ZWY5NjFlYzFmMGM2MDU5M2Q0Y2IyN2ZmNjk0NzQzOWE1ZjdhOGJkMDRhNDJjYWE3OWMzZGQyMjM2ZmQ1In0%3D" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://rong.36kr.com" />
+          <option name="urlPath" value="/n/api/company/20291" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="User-Agent" />
+                <option name="value" value="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.26 Safari/537.36 Core/1.63.5514.400 QQBrowser/10.1.1660.400" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://rong.36kr.com" />
+          <option name="urlPath" value="/n/api/company/20291" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Cookie" />
+                <option name="value" value="MEIQIA_EXTRA_TRACK_ID=18PJsogSUc3PXQLvRDNJhonafDz; acw_tc=AQAAANWaPUlVeAsAe215ahEQqD2tMQnN; MEIQIA_VISIT_ID=18RxaLYA4TyuWBzc3bwEvTJFwtX; kr_stat_uuid=E5MnA25560171; Hm_lvt_e8ec47088ed7458ec32cde3617b23ee3=1533529361,1533563876,1533610306; Hm_lpvt_e8ec47088ed7458ec32cde3617b23ee3=1533610306; download_animation=10; _kr_p_se=72676b24-4321-4e33-a0e8-5e03520c5b0e; krid_user_id=665797012; krid_user_version=4; kr_plus_id=665797012; kr_plus_token=kFQEJ5SBlTManjYmtQP_jnO1OvFS674199_43___; kr_plus_utype=0; Z-XSRF-TOKEN=eyJpdiI6InU2QVBcLzFLZFZVbjhMUm9pWkV4V29RPT0iLCJ2YWx1ZSI6IldKcDc4cUg2ZWpKazlQRFRsYW5IbDBRdkZHRVlVMklSSkRwTjNmMnJ6bzdSbjZRR0wrQWF6bk5LXC9TSkViQWdIQjFDTkZmZmJRdW16ZWpvOVwvR0tTRHc9PSIsIm1hYyI6ImQ2YzhiZmI1N2UxMmVlODgyYzY4NDhjYTNjM2Q3MDExMTE4ZDBkY2Q2NWI4MWM2ODliNGRlODU5MmNiYWVkN2UifQ%3D%3D; krchoasss=eyJpdiI6IkMrbkZqajJiMDVDY1Nveld3b09ucEE9PSIsInZhbHVlIjoiZG95VFZBTGxRbmRLRFptZ21lYWdCaDdtcmMwMTFiUzhSZ0dJSktuMmlWQ1A4amo5YTVLXC9IS0RhYkIwWlNyMTdqdHpnUEhGSHNVQjcxQ1ZTRGFEVmpnPT0iLCJtYWMiOiI3YjQ3ZWY5NjFlYzFmMGM2MDU5M2Q0Y2IyN2ZmNjk0NzQzOWE1ZjdhOGJkMDRhNDJjYWE3OWMzZGQyMjM2ZmQ1In0%3D" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="User-Agent" />
+                <option name="value" value="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.26 Safari/537.36 Core/1.63.5514.400 QQBrowser/10.1.1660.400" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://rong.36kr.com" />
+          <option name="urlPath" value="/n/api/company/20291" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Cookie" />
+                <option name="value" value="MEIQIA_EXTRA_TRACK_ID=18PJsogSUc3PXQLvRDNJhonafDz; acw_tc=AQAAANWaPUlVeAsAe215ahEQqD2tMQnN; MEIQIA_VISIT_ID=18RxaLYA4TyuWBzc3bwEvTJFwtX; kr_stat_uuid=E5MnA25560171; Hm_lvt_e8ec47088ed7458ec32cde3617b23ee3=1533529361,1533563876,1533610306; Hm_lpvt_e8ec47088ed7458ec32cde3617b23ee3=1533610306; download_animation=0; _kr_p_se=72676b24-4321-4e33-a0e8-5e03520c5b0e; krid_user_id=665797012; krid_user_version=4; kr_plus_id=665797012; kr_plus_token=kFQEJ5SBlTManjYmtQP_jnO1OvFS674199_43___; kr_plus_utype=0; Z-XSRF-TOKEN=eyJpdiI6InU2QVBcLzFLZFZVbjhMUm9pWkV4V29RPT0iLCJ2YWx1ZSI6IldKcDc4cUg2ZWpKazlQRFRsYW5IbDBRdkZHRVlVMklSSkRwTjNmMnJ6bzdSbjZRR0wrQWF6bk5LXC9TSkViQWdIQjFDTkZmZmJRdW16ZWpvOVwvR0tTRHc9PSIsIm1hYyI6ImQ2YzhiZmI1N2UxMmVlODgyYzY4NDhjYTNjM2Q3MDExMTE4ZDBkY2Q2NWI4MWM2ODliNGRlODU5MmNiYWVkN2UifQ%3D%3D; krchoasss=eyJpdiI6IkMrbkZqajJiMDVDY1Nveld3b09ucEE9PSIsInZhbHVlIjoiZG95VFZBTGxRbmRLRFptZ21lYWdCaDdtcmMwMTFiUzhSZ0dJSktuMmlWQ1A4amo5YTVLXC9IS0RhYkIwWlNyMTdqdHpnUEhGSHNVQjcxQ1ZTRGFEVmpnPT0iLCJtYWMiOiI3YjQ3ZWY5NjFlYzFmMGM2MDU5M2Q0Y2IyN2ZmNjk0NzQzOWE1ZjdhOGJkMDRhNDJjYWE3OWMzZGQyMjM2ZmQ1In0%3D" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="User-Agent" />
+                <option name="value" value="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.26 Safari/537.36 Core/1.63.5514.400 QQBrowser/10.1.1660.400" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://rong.36kr.com" />
+          <option name="urlPath" value="/n/api/company/20291" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Cookie" />
+                <option name="value" value="MEIQIA_EXTRA_TRACK_ID=18PJsogSUc3PXQLvRDNJhonafDz; acw_tc=AQAAANWaPUlVeAsAe215ahEQqD2tMQnN; MEIQIA_VISIT_ID=18RxaLYA4TyuWBzc3bwEvTJFwtX; kr_stat_uuid=E5MnA25560171; Hm_lvt_e8ec47088ed7458ec32cde3617b23ee3=1533529361,1533563876,1533610306; Hm_lpvt_e8ec47088ed7458ec32cde3617b23ee3=1533610306; download_animation=1; _kr_p_se=72676b24-4321-4e33-a0e8-5e03520c5b0e; krid_user_id=665797012; krid_user_version=4; kr_plus_id=665797012; kr_plus_token=kFQEJ5SBlTManjYmtQP_jnO1OvFS674199_43___; kr_plus_utype=0; Z-XSRF-TOKEN=eyJpdiI6InU2QVBcLzFLZFZVbjhMUm9pWkV4V29RPT0iLCJ2YWx1ZSI6IldKcDc4cUg2ZWpKazlQRFRsYW5IbDBRdkZHRVlVMklSSkRwTjNmMnJ6bzdSbjZRR0wrQWF6bk5LXC9TSkViQWdIQjFDTkZmZmJRdW16ZWpvOVwvR0tTRHc9PSIsIm1hYyI6ImQ2YzhiZmI1N2UxMmVlODgyYzY4NDhjYTNjM2Q3MDExMTE4ZDBkY2Q2NWI4MWM2ODliNGRlODU5MmNiYWVkN2UifQ%3D%3D; krchoasss=eyJpdiI6IkMrbkZqajJiMDVDY1Nveld3b09ucEE9PSIsInZhbHVlIjoiZG95VFZBTGxRbmRLRFptZ21lYWdCaDdtcmMwMTFiUzhSZ0dJSktuMmlWQ1A4amo5YTVLXC9IS0RhYkIwWlNyMTdqdHpnUEhGSHNVQjcxQ1ZTRGFEVmpnPT0iLCJtYWMiOiI3YjQ3ZWY5NjFlYzFmMGM2MDU5M2Q0Y2IyN2ZmNjk0NzQzOWE1ZjdhOGJkMDRhNDJjYWE3OWMzZGQyMjM2ZmQ1In0%3D" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="User-Agent" />
+                <option name="value" value="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.26 Safari/537.36 Core/1.63.5514.400 QQBrowser/10.1.1660.400" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://rong.36kr.com" />
+          <option name="urlPath" value="/n/api/company/20291" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Cookie" />
+                <option name="value" value="MEIQIA_EXTRA_TRACK_ID=18PJsogSUc3PXQLvRDNJhonafDz; acw_tc=AQAAANWaPUlVeAsAe215ahEQqD2tMQnN; MEIQIA_VISIT_ID=18RxaLYA4TyuWBzc3bwEvTJFwtX; kr_stat_uuid=E5MnA25560171; Hm_lvt_e8ec47088ed7458ec32cde3617b23ee3=1533529361,1533563876,1533610306; Hm_lpvt_e8ec47088ed7458ec32cde3617b23ee3=1533610306; download_animation=1; _kr_p_se=72676b24-4321-4e33-a0e8-5e03520c5b0e; krid_user_id=665797012; krid_user_version=4; kr_plus_id=665797012; kr_plus_token=kFQEJ5SBlTManjYmtQP_jnO1OvFS674199_43___; kr_plus_utype=0; Z-XSRF-TOKEN=eyJpdiI6InU2QVBcLzFLZFZVbjhMUm9pWkV4V29RPT0iLCJ2YWx1ZSI6IldKcDc4cUg2ZWpKazlQRFRsYW5IbDBRdkZHRVlVMklSSkRwTjNmMnJ6bzdSbjZRR0wrQWF6bk5LXC9TSkViQWdIQjFDTkZmZmJRdW16ZWpvOVwvR0tTRHc9PSIsIm1hYyI6ImQ2YzhiZmI1N2UxMmVlODgyYzY4NDhjYTNjM2Q3MDExMTE4ZDBkY2Q2NWI4MWM2ODliNGRlODU5MmNiYWVkN2UifQ%3D%3D; krchoasss=eyJpdiI6IkMrbkZqajJiMDVDY1Nveld3b09ucEE9PSIsInZhbHVlIjoiZG95VFZBTGxRbmRLRFptZ21lYWdCaDdtcmMwMTFiUzhSZ0dJSktuMmlWQ1A4amo5YTVLXC9IS0RhYkIwWlNyMTdqdHpnUEhGSHNVQjcxQ1ZTRGFEVmpnPT0iLCJtYWMiOiI3YjQ3ZWY5NjFlYzFmMGM2MDU5M2Q0Y2IyN2ZmNjk0NzQzOWE1ZjdhOGJkMDRhNDJjYWE3OWMzZGQyMjM2ZmQ1In0%3D" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="rong.36kr.com" />
+                <option name="name" value="acw_tc" />
+                <option name="path" value="/" />
+                <option name="value" value="AQAAAJAEsEkuPg4AtW5xe1ToNKmjFn8M" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://rong.36kr.com" />
+          <option name="urlPath" value="/n/api/company/20291" />
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="rong.36kr.com" />
+                <option name="name" value="acw_tc" />
+                <option name="path" value="/" />
+                <option name="value" value="AQAAAJAEsEkuPg4AtW5xe1ToNKmjFn8M" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://rong.36kr.com" />
+          <option name="urlPath" value="/n/api/column/0/company" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Cookie" />
+                <option name="value" value="_ga=GA1.2.95405379.1533529359; _gid=GA1.2.1789917970.1533529359; kr_stat_uuid=jwRTr25558822; Hm_lvt_e8ec47088ed7458ec32cde3617b23ee3=1533529361; download_animation=1; _kr_p_se=f3d487ce-caae-447f-a10f-d56d28d7a46e; krid_user_id=923286165; krid_user_version=2; kr_plus_id=923286165; kr_plus_token=fbYKDZXxJVem6Wik_yY_9I1PUj5P5iR_7T819_1_; acw_tc=AQAAAJ+fdyJQ0g0AtW5xewJ979Vuh8aJ; Hm_lpvt_e8ec47088ed7458ec32cde3617b23ee3=1533529443; kr_plus_utype=0; device-uid=8ce9c290-9930-11e8-b620-0dfe44732c13; krnewsfrontss=56eb092f9132605dc800e703823255e6; M-XSRF-TOKEN=581f6a2250b78cfacd0012c469a0010f043d10da67f86c425c4d436de7d219e9; Hm_lvt_713123c60a0e86982326bae1a51083e1=1533529460; Hm_lpvt_713123c60a0e86982326bae1a51083e1=1533529460; sajssdk_2015_cross_new_user=1; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%221650d7a8f5745f-07807c965385e7-335c4b7a-1327104-1650d7a8f58406%22%2C%22%24device_id%22%3A%221650d7a8f5745f-07807c965385e7-335c4b7a-1327104-1650d7a8f58406%22%2C%22props%22%3A%7B%7D%7D; MEIQIA_VISIT_ID=18PJsrNCiSBNyvgzVf2VrnjZzHt; MEIQIA_EXTRA_TRACK_ID=18PJsogSUc3PXQLvRDNJhonafDz; Z-XSRF-TOKEN=eyJpdiI6IkNtU21ObE4rblQyVUNxMExxMnpEb1E9PSIsInZhbHVlIjoicTlSTVwvRzBrclwvZXdlQmdySzZrXC85bjNIS3FaWjhkYUFxcTFCcWRsZU80Q3MxbFN1dUZKcHFCQ1Fsazl3bFVENEdMdm9LSEZcLytoSGRaSGFoUGZaUDRnPT0iLCJtYWMiOiIwMmRlZGZhZGE0MzNkMDcxYTMxZmJmYzQ5ZTY0YjFhNzNlYTE1ODVhMTg2MzZmZTMxMmQzNWQzNWZiMDIyOGRhIn0%3D; krchoasss=eyJpdiI6IklITTZ3XC9SK0VHdTVqUSs5SjJJdFlBPT0iLCJ2YWx1ZSI6IldRQzNKak1LckRpcGExZDBPU3pIT3QraGl3bHpieVJQNzJqUjJLblFjMHVaN0Y5enJqY0pPMm1cL2xRb1VaVUs0RFppMzJwSEZlK3ZTOWZWNGtBTmx0Zz09IiwibWFjIjoiMGJhN2ViMmQ2ZDIzZjNlMGVmOTNjOWU3YzY2YTdmM2RmMjFlODE3OGY2YjRiMmRiZTE1ZWQ0ZDhkYTljMjcwMyJ9" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortField" />
+                <option name="value" value="HOT_SCORE" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="p" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://rong.36kr.com" />
+          <option name="urlPath" value="/n/api/column/0/company" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortField" />
+                <option name="value" value="HOT_SCORE" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="p" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.begin">
+    <configuration name="begin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kr36" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kr36" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kr36/begin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="k36" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kr36" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kr36/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kr36/spiders/k36.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kr36" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kr36" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kr36/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.begin" />
+      <item itemvalue="Python.k36" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.begin" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.k36" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10054de1-ebc6-4ce3-ab21-150acab6d9e4" name="Default" comment="" />
+      <created>1533529857554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533529857554</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5127119" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.22457626" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2217514" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13739946" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35310733" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="REST Client" order="7" weight="0.4180791" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>response</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>request.headers</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>response.headers</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>response.meta['cookie']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cookie</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>response.text</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dict(item)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>companyList[0]['phase']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>companyList[20]['phase']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/kr36/spiders/k36.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="86" column="16" selection-start-line="86" selection-start-column="16" selection-end-line="86" selection-end-column="16" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2438">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/spiders/k36.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="86" column="16" lean-forward="true" selection-start-line="86" selection-start-column="16" selection-end-line="86" selection-end-column="16" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/spiders/k36.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1265">
+          <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/spiders/k36.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="57" column="40" lean-forward="true" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/spiders/k36.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="50" column="18" lean-forward="true" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="69" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="45" column="15" lean-forward="true" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="1089" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/spiders/k36.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="39" column="55" lean-forward="true" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="55" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="69" lean-forward="true" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1702">
+          <caret line="74" column="69" selection-start-line="74" selection-start-column="69" selection-end-line="74" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/spiders/k36.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="39" column="38" lean-forward="true" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2277">
+          <caret line="99" column="1" lean-forward="true" selection-start-line="99" selection-start-column="1" selection-end-line="99" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/begin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1352525276/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="114" column="4" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/proxyMidde.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/Anaconda3/Lib/site-packages/scrapy/spidermiddlewares/depth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/Anaconda3/Lib/site-packages/pymongo/mongo_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11707">
+          <caret line="83" column="8" selection-start-line="83" selection-start-column="8" selection-end-line="83" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/rest-api.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/spiders/proxy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/spiders/k36.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="86" column="16" selection-start-line="86" selection-start-column="16" selection-end-line="86" selection-end-column="16" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kr36/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

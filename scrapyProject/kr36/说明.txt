@@ -1,0 +1,10 @@
+爬取36kr 创投项目网站
+需要环境:
+pycharm + python3.6 + scrapy + MongoDB
+
+思路:
+分析网站,每一个都是一个Ajax请求,通过抓取Ajax获取每个公司的Id,可以进一步拼接新的请求url,一步一步抽取信息
+反爬机制:主要是cookies,另外对爬取速率(目前测试15s一页,爬取一段时间后就会限制访问,而获取不到数据,20爬取一次暂无问题)
+改进:增加cookies池,增加爬取效率
+
+用到的技术,cookies在各个request之间通过meta传递,另外不同请求获得的item也需要通过request的meta传递
